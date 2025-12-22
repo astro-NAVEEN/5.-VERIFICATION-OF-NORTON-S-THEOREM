@@ -91,6 +91,10 @@ Vi (volts)	IN (amps)
 **MODEL CALCULATION:**
 
 Practical value of IL (from tabulation 1) =2.3mA
+<img width="772" height="1280" alt="image" src="https://github.com/user-attachments/assets/596e96b8-ca4e-4798-ad1c-2c7736180d53" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/3ff0b2eb-6064-4476-b487-fce34b0ee2c8" />
+
+
 
 **Verification of Norton’s theorem**
 
